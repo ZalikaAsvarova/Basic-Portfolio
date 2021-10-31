@@ -15,7 +15,7 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   line-height: 25px;
   color: #777;
-  background: url(/assets/images/checkerboard-cross.png);
+  background-image: url(../images/checkerboard-cross.png);
 }
 .logo{
     text-decoration: none; 
